@@ -1,0 +1,13 @@
+# Environment & Secrets
+.env
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary build files
+temp/
